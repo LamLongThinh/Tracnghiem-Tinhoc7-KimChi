@@ -6,7 +6,11 @@ import re, json, pandas as pd, os, random, time
 from io import BytesIO
 import base64
 
-# ====== Cấu hình cơ bản (GIỮ NGUYÊN) ======
+# === THÊM PAGE CONFIG ĐỂ TỐI ƯU HIỂN THỊ ===
+st.set_page_config(layout="wide", page_title="MyHoaQuiz", initial_sidebar_state="expanded") 
+# ==========================================
+
+# ====== Cấu hình cơ bản ======
 QUIZ_FILE = "questions.json"
 SCORES_FILE = "scores.xlsx"
 ADMIN_PASSWORD = "admin123"
@@ -40,6 +44,7 @@ with col2:
         """,
         unsafe_allow_html=True
     )
+    
 # ====== Khởi tạo file bảng điểm (GIỮ NGUYÊN) ======
 def init_scores_file():
     if not os.path.exists(SCORES_FILE):
@@ -571,3 +576,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
