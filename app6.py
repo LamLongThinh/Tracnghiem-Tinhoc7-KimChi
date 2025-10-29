@@ -36,7 +36,7 @@ with col2:
                     MyHoaQuiz
         </h1>
         <h2 style='text-align: center; font-weight: 800;'>    
-            📝TRẮC NGHIỆM – TIN HỌC 8
+            📝TRẮC NGHIỆM – TIN HỌC 7
         </h2>
         <h5 style='text-align: center; color: gray; font-weight: 700; margin-top: -10px;'> 
     KIẾN THỨC TRỌNG TÂM GIỮA HỌC KÌ 1 NĂM HỌC 2025–2026
@@ -576,4 +576,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
