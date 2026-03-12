@@ -39,7 +39,7 @@ with col2:
             📝TRẮC NGHIỆM – TIN HỌC 7
         </h2>
         <h6 style='text-align: center; color: gray; font-weight: 700; margin-top: -10px;'> 
-    KIẾN THỨC TRỌNG TÂM GIỮA HỌC KÌ 1 NĂM HỌC 2025–2026
+    KIẾN THỨC TRỌNG TÂM GIỮA HỌC KÌ 2 NĂM HỌC 2025–2026
         </h6>
         """,
         unsafe_allow_html=True
@@ -576,6 +576,7 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
 
