@@ -33,7 +33,7 @@ with col2:
     st.markdown(
         """
         <h1   style='text-align: center; font-weight: 800;'>   
-                    MyHoaQuiz
+                    MyHoaQUIZ
         </h1>
         <h2 style='text-align: center; font-weight: 800;'>    
             📝TRẮC NGHIỆM – TIN HỌC 7
