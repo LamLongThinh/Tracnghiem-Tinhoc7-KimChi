@@ -1,306 +1,206 @@
 [
   {
-    "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
-    "options": ["Tạo trang tính mới","Chèn thêm trang tính","Di chuyển trang tính","Sao chép trang tính"],
-    "answer": "Di chuyển trang tính",
-    "image_base64": null
+    "question": "Câu 1. Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
+    "options": {
+      "A": "Tạo trang tính mới",
+      "B": "Chèn thêm trang tính.",
+      "C": "Di chuyển trang tính",
+      "D": "Sao chép trang tính."
+    },
+    "answer": "C"
   },
   {
-    "question": "Dữ liệu số trong bảng tính được hiểu là:",
-    "options": ["Chỉ gồm các số nguyên","Chỉ gồm các số thập phân","Các số nguyên hoặc số thập phân","Các ký tự và chữ cái"],
-    "answer": "Các số nguyên hoặc số thập phân",
-    "image_base64": null
+    "question": "Câu 2. Dữ liệu số trong bảng tính được hiểu là:",
+    "options": {
+      "A": "Chỉ gồm các số nguyên",
+      "B": "Chỉ gồm các số thập phân",
+      "C": "Các số nguyên hoặc số thập phân",
+      "D": "Các ký tự và chữ cái"
+    },
+    "answer": "C"
   },
   {
-    "question": "Việc định dạng dữ liệu số trong bảng tính cho phép:",
-    "options": ["Thay đổi giá trị của số","Quy định cách hiển thị của số","Xóa dữ liệu trong ô","Sao chép dữ liệu sang ô khác"],
-    "answer": "Quy định cách hiển thị của số",
-    "image_base64": null
+    "question": "Câu 3. Việc định dạng dữ liệu số trong bảng tính cho phép:",
+    "options": {
+      "A": "Thay đổi giá trị của số",
+      "B": "Quy định cách hiển thị của số",
+      "C": "Xóa dữ liệu trong ô",
+      "D": "Sao chép dữ liệu sang ô khác"
+    },
+    "answer": "B"
   },
   {
-    "question": "Sao chép một trang tính sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
-    "options": ["Font","Border","Number","Move or Copy"],
-    "answer": "Move or Copy",
-    "image_base64": null
+    "question": "Câu 4. Sao chép một trang tính sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
+    "options": {
+      "A": "Font.",
+      "B": "Border.",
+      "C": "Number.",
+      "D": "Move or Copy."
+    },
+    "answer": "D"
   },
   {
-    "question": "Lựa chọn Border → Outline trong cửa sổ Format Cells dùng để làm gì?",
-    "options": ["Không kẻ khung","Kẻ khung bên ngoài","Kẻ đường viền ô","Chọn kiểu đường kẻ"],
-    "answer": "Kẻ khung bên ngoài",
-    "image_base64": null
-  },
-  {
-    "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
-    "options": ["Color","Style","Presets","Border"],
-    "answer": "Color",
-    "image_base64": null
-  },
-  {
-    "question": "Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
-    "options": ["Danh sách phải có ít nhất 10 phần tử","Danh sách phải được sắp xếp theo một thứ tự nhất định.","Danh sách phải chứa các số nguyên","Danh sách không được chứa các giá trị trùng lặp"],
-    "answer": "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
-    "image_base64": null
-  },
-  {
-    "question": "Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
-    "options": ["Giảm đi 1 phần tử","Giảm đi 2 phần tử","Thu hẹp lại còn một nửa","Giữ nguyên kích thước"],
-    "answer": "Thu hẹp lại còn một nửa",
-    "image_base64": null
-  },
-  {
-    "question": "Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm 'Trúc', cần bao nhiêu bước so sánh?",
-    "options": ["3 bước","5 bước","8 bước","9 bước"],
-    "answer": "3 bước",
-    "image_base64": null
-  },
-  {
-    "question": "Danh sách [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], bước đầu chọn phần tử nào?",
-    "options": ["Canada","Germany","Greenland","Iceland"],
-    "answer": "Greenland",
-    "image_base64": null
+    "question": "Câu 5. Lựa chọn Border → Outline trong cửa sổ Format Cells dùng để làm gì?",
+    "options": {
+      "A": "Không kẻ khung.",
+      "B": "Kẻ khung bên ngoài.",
+      "C": "Kẻ đường viền ô.",
+      "D": "Chọn kiểu đường kẻ."
+    },
+    "answer": "B"
   },
 
   {
-    "question": "Hiệu ứng động trong trình chiếu là gì?",
-    "options": ["Thay đổi màu nền","Cách và thời điểm xuất hiện","Chèn hình ảnh","Lưu tệp"],
-    "answer": "Cách và thời điểm xuất hiện",
-    "image_base64": null
+    "question": "Câu 6. Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
+    "options": {
+      "A": "Color.",
+      "B": "Style.",
+      "C": "Presets.",
+      "D": "Border."
+    },
+    "answer": "A"
   },
   {
-    "question": "Hiệu ứng cho các đối tượng gọi là gì?",
-    "options": ["Hiệu ứng chuyển trang","Hiệu ứng văn bản","Hiệu ứng đối tượng","Hiệu ứng hình nền"],
-    "answer": "Hiệu ứng đối tượng",
-    "image_base64": null
+    "question": "Câu 7. Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
+    "options": {
+      "A": "Danh sách phải có ít nhất 10 phần tử.",
+      "B": "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
+      "C": "Danh sách phải chứa các số nguyên.",
+      "D": "Danh sách không được chứa các giá trị trùng lặp."
+    },
+    "answer": "B"
   },
   {
-    "question": "Hiệu ứng chuyển trang chiếu có tác dụng gì?",
-    "options": ["Thay đổi nội dung","Chuyển giữa các slide","Đổi màu chữ","Chèn âm thanh"],
-    "answer": "Chuyển giữa các slide",
-    "image_base64": null
+    "question": "Câu 8. Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
+    "options": {
+      "A": "Giảm đi 1 phần tử.",
+      "B": "Giảm đi 2 phần tử.",
+      "C": "Thu hẹp lại còn một nửa.",
+      "D": "Giữ nguyên kích thước."
+    },
+    "answer": "C"
   },
   {
-    "question": "Dùng quá nhiều hiệu ứng sẽ:",
-    "options": ["Rối mắt","Tập trung hơn","Rõ hơn","Nhanh hơn"],
-    "answer": "Rối mắt",
-    "image_base64": null
+    "question": "Câu 9. Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm khách hàng tên \"Trúc\", ta cần thực hiện bao nhiêu bước so sánh?",
+    "options": {
+      "A": "3 bước.",
+      "B": "5 bước.",
+      "C": "8 bước.",
+      "D": "9 bước."
+    },
+    "answer": "A"
   },
   {
-    "question": "Khi nào nên dùng hiệu ứng?",
-    "options": ["Nội dung không quan trọng","Muốn sinh động","Không có hình","Giảm thời gian"],
-    "answer": "Muốn sinh động",
-    "image_base64": null
-  },
-  {
-    "question": "Hiệu ứng trang chiếu nằm ở thẻ nào?",
-    "options": ["Transitions","Animations","Design","Insert"],
-    "answer": "Transitions",
-    "image_base64": null
-  },
-  {
-    "question": "Có bao nhiêu loại hiệu ứng?",
-    "options": ["1","2","3","4"],
-    "answer": "4",
-    "image_base64": null
-  },
-  {
-    "question": "Định dạng phù hợp:",
-    "options": ["Tiêu đề thường","Cả hai đậm","Tiêu đề đậm","Cả hai thường"],
-    "answer": "Tiêu đề đậm",
-    "image_base64": null
-  },
-  {
-    "question": "Hiệu ứng đối tượng ở thẻ nào?",
-    "options": ["Transitions","Animations","Design","Insert"],
-    "answer": "Animations",
-    "image_base64": null
-  },
-  {
-    "question": "Hiệu ứng cho slide gọi là gì?",
-    "options": ["Đối tượng","Chuyển trang","Di chuyển","Xoay"],
-    "answer": "Chuyển trang",
-    "image_base64": null
+    "question": "Câu 10. Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], ở lần kiểm tra đầu tiên của thuật toán tìm kiếm nhị phân, phần tử nào được chọn?",
+    "options": {
+      "A": "Canada",
+      "B": "Germany",
+      "C": "Greenland",
+      "D": "Iceland"
+    },
+    "answer": "C"
   },
 
   {
-    "question": "Thuật toán nổi bọt hoạt động thế nào?",
-    "options": ["So sánh liền kề","Chọn lớn nhất","Chia nhỏ","Đổi ngẫu nhiên"],
-    "answer": "So sánh liền kề",
-    "image_base64": null
+    "question": "Câu 11. Hiệu ứng động trong trình chiếu là gì?",
+    "options": {
+      "A": "Cách thay đổi màu nền trang chiếu",
+      "B": "Cách và thời điểm xuất hiện của các đối tượng và trang chiếu",
+      "C": "Cách chèn hình ảnh vào trang chiếu",
+      "D": "Cách lưu tệp trình chiếu"
+    },
+    "answer": "B"
   },
   {
-    "question": "Khi nào hoán đổi?",
-    "options": ["Trước nhỏ hơn","Trước lớn hơn","Bằng nhau","Số chẵn"],
-    "answer": "Trước lớn hơn",
-    "image_base64": null
+    "question": "Câu 12. Hiệu ứng cho các đối tượng trên trang chiếu được gọi là gì?",
+    "options": {
+      "A": "Hiệu ứng chuyển trang",
+      "B": "Hiệu ứng văn bản",
+      "C": "Hiệu ứng đối tượng",
+      "D": "Hiệu ứng hình nền"
+    },
+    "answer": "C"
   },
   {
-    "question": "Tìm số 12 cần bao nhiêu bước?",
-    "options": ["1","2","4","3"],
-    "answer": "1",
-    "image_base64": null
+    "question": "Câu 13. Hiệu ứng chuyển trang chiếu có tác dụng gì?",
+    "options": {
+      "A": "Làm thay đổi nội dung trang chiếu",
+      "B": "Tạo cách chuyển từ trang chiếu này sang trang chiếu khác",
+      "C": "Thay đổi màu chữ",
+      "D": "Chèn âm thanh"
+    },
+    "answer": "B"
   },
   {
-    "question": "Bước đầu tìm từ điển:",
-    "options": ["Đầu","Cuối","Giữa","Ngẫu nhiên"],
-    "answer": "Giữa",
-    "image_base64": null
+    "question": "Câu 14. Khi sử dụng quá nhiều hiệu ứng động trong bài trình chiếu, điều gì có thể xảy ra?",
+    "options": {
+      "A": "Gây rối mắt và mất tập trung",
+      "B": "Người xem dễ tập trung hơn",
+      "C": "Bài trình chiếu rõ ràng hơn",
+      "D": "Tăng tốc độ trình chiếu"
+    },
+    "answer": "A"
   },
   {
-    "question": "Nếu lớn hơn trang giữa?",
-    "options": ["Nửa trước","Nửa sau","Dừng","Từng trang"],
-    "answer": "Nửa sau",
-    "image_base64": null
-  },
-  {
-    "question": "Ưu điểm tìm nhị phân:",
-    "options": ["Dễ","Chậm","Nhanh hơn","Không cần sắp xếp"],
-    "answer": "Nhanh hơn",
-    "image_base64": null
-  },
-  {
-    "question": "Tìm 25 cần bao nhiêu bước?",
-    "options": ["2","3","4","5"],
-    "answer": "3",
-    "image_base64": null
-  },
-  {
-    "question": "Điều kiện tìm nhị phân:",
-    "options": ["Sắp xếp","Lớn","Số","Chữ"],
-    "answer": "Sắp xếp",
-    "image_base64": null
-  },
-
-  {
-    "question": "Ký hiệu phần trăm:",
-    "options": ["$","%","#","@"],
-    "answer": "%",
-    "image_base64": null
-  },
-  {
-    "question": "Định dạng ngày VN:",
-    "options": ["mm/dd","dd/mm","yyyy/dd","dd/yyyy"],
-    "answer": "dd/mm",
-    "image_base64": null
-  },
-  {
-    "question": "SUM(1,3,5)=",
-    "options": ["7","8","9","10"],
-    "answer": "9",
-    "image_base64": null
-  },
-  {
-    "question": "AVERAGE(6,3,3)=",
-    "options": ["4","3","5","6"],
-    "answer": "4",
-    "image_base64": null
-  },
-  {
-    "question": "COUNT(1,2,3,4)=",
-    "options": ["4","3","5","6"],
-    "answer": "4",
-    "image_base64": null
-  },
-  {
-    "question": "Gộp ô giữ dữ liệu nào?",
-    "options": ["Tất cả","Ô cuối","Ô trái trên","Xóa hết"],
-    "answer": "Ô trái trên",
-    "image_base64": null
-  },
-  {
-    "question": "Tìm tuần tự:",
-    "options": ["Cần sắp xếp","Giữa","Từng phần tử","Chỉ số"],
-    "answer": "Từng phần tử",
-    "image_base64": null
-  },
-  {
-    "question": "Phù hợp khi:",
-    "options": ["Lớn","Nhỏ","Nhanh","Có thứ tự"],
-    "answer": "Nhỏ",
-    "image_base64": null
-  },
-  {
-    "question": "Tìm 9 số lần:",
-    "options": ["2","3","5","4"],
-    "answer": "4",
-    "image_base64": null
-  },
-  {
-    "question": "Tìm tên Minh:",
-    "options": ["Lặp kiểm tra","Sắp xếp","Xóa","Ghi ngay"],
-    "answer": "Lặp kiểm tra",
-    "image_base64": null
+    "question": "Câu 15. Trong trường hợp nào nên sử dụng hiệu ứng động?",
+    "options": {
+      "A": "Khi nội dung không quan trọng",
+      "B": "Khi muốn bài trình chiếu sinh động và thu hút",
+      "C": "Khi không có hình ảnh",
+      "D": "Khi muốn giảm thời gian trình chiếu"
+    },
+    "answer": "B"
   },
 
   {
-    "question": "Tạo hiệu ứng đối tượng:",
-    "options": ["Animation Pane","Chọn Animation","Transition","Preview"],
-    "answer": "Chọn Animation",
-    "image_base64": null
+    "question": "Câu 16. Hiệu ứng cho các trang chiếu nằm trong thẻ nào?",
+    "options": {
+      "A": "Transitions",
+      "B": "Animations",
+      "C": "Design",
+      "D": "Insert"
+    },
+    "answer": "A"
   },
   {
-    "question": "Làm nổi bật tiêu đề:",
-    "options": ["Không dùng","Hiệu ứng","Xóa","Giảm chữ"],
-    "answer": "Hiệu ứng",
-    "image_base64": null
+    "question": "Câu 17. Có bao nhiêu loại hiệu ứng động?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "D"
   },
   {
-    "question": "Phát biểu sai:",
-    "options": ["Home","Áp dụng mẫu","Phân cấp","Chọn lọc"],
-    "answer": "Home",
-    "image_base64": null
+    "question": "Câu 18. Định dạng nào phù hợp khi tạo bài trình chiếu?",
+    "options": {
+      "A": "Tiêu đề kiểu chữ thường, nội dung kiểu chữ đậm",
+      "B": "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ đậm",
+      "C": "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ thường",
+      "D": "Tiêu đề kiểu chữ thường, nội dung kiểu chữ thường"
+    },
+    "answer": "C"
   },
   {
-    "question": "Quy tắc slide:",
-    "options": ["Nhiều hiệu ứng","Không bản quyền","Nhiều màu","Cô đọng"],
-    "answer": "Cô đọng",
-    "image_base64": null
+    "question": "Câu 19. Hiệu ứng cho đối tượng nằm trong thẻ nào?",
+    "options": {
+      "A": "Transitions",
+      "B": "Animations",
+      "C": "Design",
+      "D": "Insert"
+    },
+    "answer": "B"
   },
   {
-    "question": "Nhận định sai:",
-    "options": ["Hình ảnh tốt","Bản quyền","Không cần biên tập","Lạm dụng xấu"],
-    "answer": "Không cần biên tập",
-    "image_base64": null
-  },
-  {
-    "question": "Nổi bọt dừng khi:",
-    "options": ["Không đổi","Lớn nhất đầu","1 lần","Đủ lần"],
-    "answer": "Không đổi",
-    "image_base64": null
-  },
-  {
-    "question": "Nổi bọt tăng dần:",
-    "options": ["So sánh liền kề","Cuối lên","Ngẫu nhiên","Đầu cuối"],
-    "answer": "So sánh liền kề",
-    "image_base64": null
-  },
-  {
-    "question": "Phát biểu đúng:",
-    "options": ["Không so sánh","1 lần","Lặp nhiều","Không đổi"],
-    "answer": "Lặp nhiều",
-    "image_base64": null
-  },
-  {
-    "question": "So sánh Greenland với Vietnam:",
-    "options": ["Trái","Phải","Dừng","Lại"],
-    "answer": "Phải",
-    "image_base64": null
-  },
-  {
-    "question": "Tìm 7 cần:",
-    "options": ["1","2","4","3"],
-    "answer": "2",
-    "image_base64": null
-  },
-  {
-    "question": "Không tìm thấy 15:",
-    "options": ["2","3","4","5"],
-    "answer": "3",
-    "image_base64": null
-  },
-  {
-    "question": "Input tìm nhị phân:",
-    "options": ["Danh sách + giá trị","Bất kỳ","Chỉ giá trị","Chỉ danh sách"],
-    "answer": "Danh sách + giá trị",
-    "image_base64": null
+    "question": "Câu 20. Hiệu ứng cho các trang chiếu gọi là gì?",
+    "options": {
+      "A": "Hiệu ứng cho đối tượng",
+      "B": "Hiệu ứng chuyển trang chiếu",
+      "C": "Hiệu ứng di chuyển",
+      "D": "Hiệu ứng xoay tròn"
+    },
+    "answer": "B"
   }
+
 ]
