@@ -1,6 +1,6 @@
 [
   {
-    "question": "Câu 1. Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
+    "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
     "options": {
       "A": "Tạo trang tính mới",
       "B": "Chèn thêm trang tính.",
@@ -10,7 +10,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 2. Dữ liệu số trong bảng tính được hiểu là:",
+    "question": "Dữ liệu số trong bảng tính được hiểu là:",
     "options": {
       "A": "Chỉ gồm các số nguyên",
       "B": "Chỉ gồm các số thập phân",
@@ -20,7 +20,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 3. Việc định dạng dữ liệu số trong bảng tính cho phép:",
+    "question": "Việc định dạng dữ liệu số trong bảng tính cho phép:",
     "options": {
       "A": "Thay đổi giá trị của số",
       "B": "Quy định cách hiển thị của số",
@@ -30,7 +30,7 @@
     "answer": "B"
   },
   {
-    "question": "Câu 4. Sao chép một trang tính sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
+    "question": "Sao chép một trang tính sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
     "options": {
       "A": "Font.",
       "B": "Border.",
@@ -40,7 +40,7 @@
     "answer": "D"
   },
   {
-    "question": "Câu 5. Lựa chọn Border → Outline trong cửa sổ Format Cells dùng để làm gì?",
+    "question": "Lựa chọn Border → Outline trong cửa sổ Format Cells dùng để làm gì?",
     "options": {
       "A": "Không kẻ khung.",
       "B": "Kẻ khung bên ngoài.",
@@ -51,7 +51,7 @@
   },
 
   {
-    "question": "Câu 6. Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
+    "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
     "options": {
       "A": "Color.",
       "B": "Style.",
@@ -61,7 +61,7 @@
     "answer": "A"
   },
   {
-    "question": "Câu 7. Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
+    "question": "Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
     "options": {
       "A": "Danh sách phải có ít nhất 10 phần tử.",
       "B": "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
@@ -71,7 +71,7 @@
     "answer": "B"
   },
   {
-    "question": "Câu 8. Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
+    "question": "Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
     "options": {
       "A": "Giảm đi 1 phần tử.",
       "B": "Giảm đi 2 phần tử.",
@@ -81,7 +81,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 9. Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm khách hàng tên \"Trúc\", ta cần thực hiện bao nhiêu bước so sánh?",
+    "question": "Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm khách hàng tên \"Trúc\", ta cần thực hiện bao nhiêu bước so sánh?",
     "options": {
       "A": "3 bước.",
       "B": "5 bước.",
@@ -91,7 +91,7 @@
     "answer": "A"
   },
   {
-    "question": "Câu 10. Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], ở lần kiểm tra đầu tiên của thuật toán tìm kiếm nhị phân, phần tử nào được chọn?",
+    "question": "Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], ở lần kiểm tra đầu tiên của thuật toán tìm kiếm nhị phân, phần tử nào được chọn?",
     "options": {
       "A": "Canada",
       "B": "Germany",
@@ -102,7 +102,7 @@
   },
 
   {
-    "question": "Câu 11. Hiệu ứng động trong trình chiếu là gì?",
+    "question": "Hiệu ứng động trong trình chiếu là gì?",
     "options": {
       "A": "Cách thay đổi màu nền trang chiếu",
       "B": "Cách và thời điểm xuất hiện của các đối tượng và trang chiếu",
@@ -112,7 +112,7 @@
     "answer": "B"
   },
   {
-    "question": "Câu 12. Hiệu ứng cho các đối tượng trên trang chiếu được gọi là gì?",
+    "question": "Hiệu ứng cho các đối tượng trên trang chiếu được gọi là gì?",
     "options": {
       "A": "Hiệu ứng chuyển trang",
       "B": "Hiệu ứng văn bản",
@@ -122,7 +122,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 13. Hiệu ứng chuyển trang chiếu có tác dụng gì?",
+    "question": "Hiệu ứng chuyển trang chiếu có tác dụng gì?",
     "options": {
       "A": "Làm thay đổi nội dung trang chiếu",
       "B": "Tạo cách chuyển từ trang chiếu này sang trang chiếu khác",
@@ -132,7 +132,7 @@
     "answer": "B"
   },
   {
-    "question": "Câu 14. Khi sử dụng quá nhiều hiệu ứng động trong bài trình chiếu, điều gì có thể xảy ra?",
+    "question": "Khi sử dụng quá nhiều hiệu ứng động trong bài trình chiếu, điều gì có thể xảy ra?",
     "options": {
       "A": "Gây rối mắt và mất tập trung",
       "B": "Người xem dễ tập trung hơn",
@@ -142,7 +142,7 @@
     "answer": "A"
   },
   {
-    "question": "Câu 15. Trong trường hợp nào nên sử dụng hiệu ứng động?",
+    "question": "Trong trường hợp nào nên sử dụng hiệu ứng động?",
     "options": {
       "A": "Khi nội dung không quan trọng",
       "B": "Khi muốn bài trình chiếu sinh động và thu hút",
@@ -153,7 +153,7 @@
   },
 
   {
-    "question": "Câu 16. Hiệu ứng cho các trang chiếu nằm trong thẻ nào?",
+    "question": "Hiệu ứng cho các trang chiếu nằm trong thẻ nào?",
     "options": {
       "A": "Transitions",
       "B": "Animations",
@@ -163,7 +163,7 @@
     "answer": "A"
   },
   {
-    "question": "Câu 17. Có bao nhiêu loại hiệu ứng động?",
+    "question": "Có bao nhiêu loại hiệu ứng động?",
     "options": {
       "A": "1",
       "B": "2",
@@ -173,7 +173,7 @@
     "answer": "D"
   },
   {
-    "question": "Câu 18. Định dạng nào phù hợp khi tạo bài trình chiếu?",
+    "question": "Định dạng nào phù hợp khi tạo bài trình chiếu?",
     "options": {
       "A": "Tiêu đề kiểu chữ thường, nội dung kiểu chữ đậm",
       "B": "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ đậm",
@@ -183,7 +183,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 19. Hiệu ứng cho đối tượng nằm trong thẻ nào?",
+    "question": "Hiệu ứng cho đối tượng nằm trong thẻ nào?",
     "options": {
       "A": "Transitions",
       "B": "Animations",
