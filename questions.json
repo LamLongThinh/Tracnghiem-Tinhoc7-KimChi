@@ -1,206 +1,552 @@
 [
-  {
-    "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
-    "options": {
-      "A": "Tạo trang tính mới",
-      "B": "Chèn thêm trang tính.",
-      "C": "Di chuyển trang tính",
-      "D": "Sao chép trang tính."
+    {
+        "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
+        "options": [
+            "Tạo trang tính mới",
+            "Chèn thêm trang tính.",
+            "Di chuyển trang tính",
+            "Sao chép trang tính."
+        ],
+        "answer": "Di chuyển trang tính",
+        "image_base64": null
     },
-    "answer": "C"
-  },
-  {
-    "question": "Dữ liệu số trong bảng tính được hiểu là:",
-    "options": {
-      "A": "Chỉ gồm các số nguyên",
-      "B": "Chỉ gồm các số thập phân",
-      "C": "Các số nguyên hoặc số thập phân",
-      "D": "Các ký tự và chữ cái"
+    {
+        "question": "Dữ liệu số trong bảng tính được hiểu là:",
+        "options": [
+            "Chỉ gồm các số nguyên",
+            "Chỉ gồm các số thập phân",
+            "Các số nguyên hoặc số thập phân",
+            "Các ký tự và chữ cái"
+        ],
+        "answer": "Các số nguyên hoặc số thập phân",
+        "image_base64": null
     },
-    "answer": "C"
-  },
-  {
-    "question": "Việc định dạng dữ liệu số trong bảng tính cho phép:",
-    "options": {
-      "A": "Thay đổi giá trị của số",
-      "B": "Quy định cách hiển thị của số",
-      "C": "Xóa dữ liệu trong ô",
-      "D": "Sao chép dữ liệu sang ô khác"
+    {
+        "question": "Việc định dạng dữ liệu số trong bảng tính cho phép:",
+        "options": [
+            "Thay đổi giá trị của số",
+            "Quy định cách hiển thị của số",
+            "Xóa dữ liệu trong ô",
+            "Sao chép dữ liệu sang ô khác"
+        ],
+        "answer": "Quy định cách hiển thị của số",
+        "image_base64": null
     },
-    "answer": "B"
-  },
-  {
-    "question": "Sao chép một trang tính sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
-    "options": {
-      "A": "Font.",
-      "B": "Border.",
-      "C": "Number.",
-      "D": "Move or Copy."
+    {
+        "question": "Sao chép một trang tính sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
+        "options": [
+            "Font.",
+            "Border.",
+            "Number.",
+            "Move or Copy."
+        ],
+        "answer": "Move or Copy.",
+        "image_base64": null
     },
-    "answer": "D"
-  },
-  {
-    "question": "Lựa chọn Border → Outline trong cửa sổ Format Cells dùng để làm gì?",
-    "options": {
-      "A": "Không kẻ khung.",
-      "B": "Kẻ khung bên ngoài.",
-      "C": "Kẻ đường viền ô.",
-      "D": "Chọn kiểu đường kẻ."
+    {
+        "question": "Lựa chọn Border → Outline trong cửa sổ Format Cells dùng để làm gì?",
+        "options": [
+            "Không kẻ khung.",
+            "Kẻ khung bên ngoài.",
+            "Kẻ đường viền ô.",
+            "Chọn kiểu đường kẻ."
+        ],
+        "answer": "Kẻ khung bên ngoài.",
+        "image_base64": null
     },
-    "answer": "B"
-  },
-
-  {
-    "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
-    "options": {
-      "A": "Color.",
-      "B": "Style.",
-      "C": "Presets.",
-      "D": "Border."
+    {
+        "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
+        "options": [
+            "Color.",
+            "Style.",
+            "Presets.",
+            "Border."
+        ],
+        "answer": "Color.",
+        "image_base64": null
     },
-    "answer": "A"
-  },
-  {
-    "question": "Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
-    "options": {
-      "A": "Danh sách phải có ít nhất 10 phần tử.",
-      "B": "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
-      "C": "Danh sách phải chứa các số nguyên.",
-      "D": "Danh sách không được chứa các giá trị trùng lặp."
+    {
+        "question": "Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
+        "options": [
+            "Danh sách phải có ít nhất 10 phần tử.",
+            "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
+            "Danh sách phải chứa các số nguyên.",
+            "Danh sách không được chứa các giá trị trùng lặp."
+        ],
+        "answer": "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
+        "image_base64": null
     },
-    "answer": "B"
-  },
-  {
-    "question": "Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
-    "options": {
-      "A": "Giảm đi 1 phần tử.",
-      "B": "Giảm đi 2 phần tử.",
-      "C": "Thu hẹp lại còn một nửa.",
-      "D": "Giữ nguyên kích thước."
+    {
+        "question": "Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
+        "options": [
+            "Giảm đi 1 phần tử.",
+            "Giảm đi 2 phần tử.",
+            "Thu hẹp lại còn một nửa.",
+            "Giữ nguyên kích thước."
+        ],
+        "answer": "Thu hẹp lại còn một nửa.",
+        "image_base64": null
     },
-    "answer": "C"
-  },
-  {
-    "question": "Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm khách hàng tên \"Trúc\", ta cần thực hiện bao nhiêu bước so sánh?",
-    "options": {
-      "A": "3 bước.",
-      "B": "5 bước.",
-      "C": "8 bước.",
-      "D": "9 bước."
+    {
+        "question": "Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm khách hàng tên \"Trúc\", ta cần thực hiện bao nhiêu bước so sánh?",
+        "options": [
+            "3 bước.",
+            "5 bước.",
+            "8 bước.",
+            "9 bước."
+        ],
+        "answer": "3 bước.",
+        "image_base64": null
     },
-    "answer": "A"
-  },
-  {
-    "question": "Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], ở lần kiểm tra đầu tiên của thuật toán tìm kiếm nhị phân, phần tử nào được chọn?",
-    "options": {
-      "A": "Canada",
-      "B": "Germany",
-      "C": "Greenland",
-      "D": "Iceland"
+    {
+        "question": "Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], ở lần kiểm tra đầu tiên của thuật toán tìm kiếm nhị phân, phần tử nào được chọn?",
+        "options": [
+            "Canada",
+            "Germany",
+            "Greenland",
+            "Iceland"
+        ],
+        "answer": "Greenland",
+        "image_base64": null
     },
-    "answer": "C"
-  },
-
-  {
-    "question": "Hiệu ứng động trong trình chiếu là gì?",
-    "options": {
-      "A": "Cách thay đổi màu nền trang chiếu",
-      "B": "Cách và thời điểm xuất hiện của các đối tượng và trang chiếu",
-      "C": "Cách chèn hình ảnh vào trang chiếu",
-      "D": "Cách lưu tệp trình chiếu"
+    {
+        "question": "Hiệu ứng động trong trình chiếu là gì?",
+        "options": [
+            "Cách thay đổi màu nền trang chiếu",
+            "Cách và thời điểm xuất hiện của các đối tượng và trang chiếu",
+            "Cách chèn hình ảnh vào trang chiếu",
+            "Cách lưu tệp trình chiếu"
+        ],
+        "answer": "Cách và thời điểm xuất hiện của các đối tượng và trang chiếu",
+        "image_base64": null
     },
-    "answer": "B"
-  },
-  {
-    "question": "Hiệu ứng cho các đối tượng trên trang chiếu được gọi là gì?",
-    "options": {
-      "A": "Hiệu ứng chuyển trang",
-      "B": "Hiệu ứng văn bản",
-      "C": "Hiệu ứng đối tượng",
-      "D": "Hiệu ứng hình nền"
+    {
+        "question": "Hiệu ứng cho các đối tượng trên trang chiếu được gọi là gì?",
+        "options": [
+            "Hiệu ứng chuyển trang",
+            "Hiệu ứng văn bản",
+            "Hiệu ứng đối tượng",
+            "Hiệu ứng hình nền"
+        ],
+        "answer": "Hiệu ứng đối tượng",
+        "image_base64": null
     },
-    "answer": "C"
-  },
-  {
-    "question": "Hiệu ứng chuyển trang chiếu có tác dụng gì?",
-    "options": {
-      "A": "Làm thay đổi nội dung trang chiếu",
-      "B": "Tạo cách chuyển từ trang chiếu này sang trang chiếu khác",
-      "C": "Thay đổi màu chữ",
-      "D": "Chèn âm thanh"
+    {
+        "question": "Hiệu ứng chuyển trang chiếu có tác dụng gì?",
+        "options": [
+            "Làm thay đổi nội dung trang chiếu",
+            "Tạo cách chuyển từ trang chiếu này sang trang chiếu khác",
+            "Thay đổi màu chữ",
+            "Chèn âm thanh"
+        ],
+        "answer": "Tạo cách chuyển từ trang chiếu này sang trang chiếu khác",
+        "image_base64": null
     },
-    "answer": "B"
-  },
-  {
-    "question": "Khi sử dụng quá nhiều hiệu ứng động trong bài trình chiếu, điều gì có thể xảy ra?",
-    "options": {
-      "A": "Gây rối mắt và mất tập trung",
-      "B": "Người xem dễ tập trung hơn",
-      "C": "Bài trình chiếu rõ ràng hơn",
-      "D": "Tăng tốc độ trình chiếu"
+    {
+        "question": "Khi sử dụng quá nhiều hiệu ứng động trong bài trình chiếu, điều gì có thể xảy ra?",
+        "options": [
+            "Gây rối mắt và mất tập trung",
+            "Người xem dễ tập trung hơn",
+            "Bài trình chiếu rõ ràng hơn",
+            "Tăng tốc độ trình chiếu"
+        ],
+        "answer": "Gây rối mắt và mất tập trung",
+        "image_base64": null
     },
-    "answer": "A"
-  },
-  {
-    "question": "Trong trường hợp nào nên sử dụng hiệu ứng động?",
-    "options": {
-      "A": "Khi nội dung không quan trọng",
-      "B": "Khi muốn bài trình chiếu sinh động và thu hút",
-      "C": "Khi không có hình ảnh",
-      "D": "Khi muốn giảm thời gian trình chiếu"
+    {
+        "question": "Trong trường hợp nào nên sử dụng hiệu ứng động?",
+        "options": [
+            "Khi nội dung không quan trọng",
+            "Khi muốn bài trình chiếu sinh động và thu hút",
+            "Khi không có hình ảnh",
+            "Khi muốn giảm thời gian trình chiếu"
+        ],
+        "answer": "Khi muốn bài trình chiếu sinh động và thu hút",
+        "image_base64": null
     },
-    "answer": "B"
-  },
-
-  {
-    "question": "Hiệu ứng cho các trang chiếu nằm trong thẻ nào?",
-    "options": {
-      "A": "Transitions",
-      "B": "Animations",
-      "C": "Design",
-      "D": "Insert"
+    {
+        "question": "Hiệu ứng cho các trang chiếu nằm trong thẻ nào?",
+        "options": [
+            "Transitions",
+            "Animations",
+            "Design",
+            "Insert"
+        ],
+        "answer": "Transitions",
+        "image_base64": null
     },
-    "answer": "A"
-  },
-  {
-    "question": "Có bao nhiêu loại hiệu ứng động?",
-    "options": {
-      "A": "1",
-      "B": "2",
-      "C": "3",
-      "D": "4"
+    {
+        "question": "Có bao nhiêu loại hiệu ứng động?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4",
+        "image_base64": null
     },
-    "answer": "D"
-  },
-  {
-    "question": "Định dạng nào phù hợp khi tạo bài trình chiếu?",
-    "options": {
-      "A": "Tiêu đề kiểu chữ thường, nội dung kiểu chữ đậm",
-      "B": "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ đậm",
-      "C": "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ thường",
-      "D": "Tiêu đề kiểu chữ thường, nội dung kiểu chữ thường"
+    {
+        "question": "Định dạng nào phù hợp khi tạo bài trình chiếu?",
+        "options": [
+            "Tiêu đề kiểu chữ thường, nội dung kiểu chữ đậm",
+            "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ đậm",
+            "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ thường",
+            "Tiêu đề kiểu chữ thường, nội dung kiểu chữ thường"
+        ],
+        "answer": "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ thường",
+        "image_base64": null
     },
-    "answer": "C"
-  },
-  {
-    "question": "Hiệu ứng cho đối tượng nằm trong thẻ nào?",
-    "options": {
-      "A": "Transitions",
-      "B": "Animations",
-      "C": "Design",
-      "D": "Insert"
+    {
+        "question": "Hiệu ứng cho đối tượng nằm trong thẻ nào?",
+        "options": [
+            "Transitions",
+            "Animations",
+            "Design",
+            "Insert"
+        ],
+        "answer": "Animations",
+        "image_base64": null
     },
-    "answer": "B"
-  },
-  {
-    "question": "Câu 20. Hiệu ứng cho các trang chiếu gọi là gì?",
-    "options": {
-      "A": "Hiệu ứng cho đối tượng",
-      "B": "Hiệu ứng chuyển trang chiếu",
-      "C": "Hiệu ứng di chuyển",
-      "D": "Hiệu ứng xoay tròn"
+    {
+        "question": "Hiệu ứng cho các trang chiếu gọi là gì?",
+        "options": [
+            "Hiệu ứng cho đối tượng",
+            "Hiệu ứng chuyển trang chiếu",
+            "Hiệu ứng di chuyển",
+            "Hiệu ứng xoay tròn"
+        ],
+        "answer": "Hiệu ứng chuyển trang chiếu",
+        "image_base64": null
     },
-    "answer": "B"
-  }
-
+    {
+        "question": "Thuật toán sắp xếp nổi bọt thực hiện bằng cách nào?",
+        "options": [
+            "So sánh các phần tử liền kề và hoán đổi nếu sai thứ tự",
+            "Chọn phần tử lớn nhất đưa về đầu",
+            "Chia nhỏ danh sách rồi sắp xếp",
+            "Đổi chỗ phần tử bất kỳ"
+        ],
+        "answer": "So sánh các phần tử liền kề và hoán đổi nếu sai thứ tự",
+        "image_base64": null
+    },
+    {
+        "question": "Trong sắp xếp nổi bọt tăng dần, khi nào hai phần tử được hoán đổi?",
+        "options": [
+            "Khi phần tử trước nhỏ hơn phần tử sau",
+            "Khi phần tử trước lớn hơn phần tử sau",
+            "Khi hai phần tử bằng nhau",
+            "Khi phần tử sau là số chẵn"
+        ],
+        "answer": "Khi phần tử trước lớn hơn phần tử sau",
+        "image_base64": null
+    },
+    {
+        "question": "Thuật toán tìm kiếm nhị phân cần bao nhiêu bước để tìm thấy số 12 trong danh sách đã sắp xếp [2, 5, 8, 12, 16, 20, 25]?",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "1",
+        "image_base64": null
+    },
+    {
+        "question": "Khi tra từ trong từ điển theo cách tìm kiếm nhị phân, bước đầu tiên là gì?",
+        "options": [
+            "Mở từ điển ở trang đầu",
+            "Mở từ điển ở trang cuối",
+            "Mở từ điển ở trang giữa",
+            "Mở ngẫu nhiên một trang"
+        ],
+        "answer": "Mở từ điển ở trang giữa",
+        "image_base64": null
+    },
+    {
+        "question": "Nếu từ cần tìm đứng sau từ ở trang giữa, em sẽ làm gì?",
+        "options": [
+            "Lật về nửa trước của cuốn từ điển",
+            "Lật sang nửa sau của cuốn từ điển",
+            "Dừng lại",
+            "Tìm từng trang một"
+        ],
+        "answer": "Lật sang nửa sau của cuốn từ điển",
+        "image_base64": null
+    },
+    {
+        "question": "Ưu điểm chính của cách tìm kiếm nhị phân so với tìm tuần tự là gì?",
+        "options": [
+            "Dễ thực hiện hơn",
+            "Tốn nhiều thời gian hơn",
+            "Nhanh hơn do loại bỏ một nửa dữ liệu sau mỗi lần tìm",
+            "Không cần sắp xếp dữ liệu"
+        ],
+        "answer": "Nhanh hơn do loại bỏ một nửa dữ liệu sau mỗi lần tìm",
+        "image_base64": null
+    },
+    {
+        "question": "Thuật toán tìm kiếm nhị phân cần thực hiện bao nhiêu bước lặp để thông báo tìm thấy số 25 trong danh sách [3, 5, 7, 11, 12, 25]?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "image_base64": null
+    },
+    {
+        "question": "Điều kiện cần để áp dụng tìm kiếm nhị phân là gì?",
+        "options": [
+            "Dữ liệu phải được sắp xếp theo thứ tự",
+            "Dữ liệu phải rất lớn",
+            "Dữ liệu phải là số",
+            "Dữ liệu phải là chữ cái"
+        ],
+        "answer": "Dữ liệu phải được sắp xếp theo thứ tự",
+        "image_base64": null
+    },
+    {
+        "question": "Định dạng dữ liệu phần trăm trong bảng tính thường được hiển thị bằng ký hiệu nào?",
+        "options": [
+            "$",
+            "%",
+            "#",
+            "@"
+        ],
+        "answer": "%",
+        "image_base64": null
+    },
+    {
+        "question": "Kiểu định dạng ngày tháng nào sau đây là phổ biến tại Việt Nam?",
+        "options": [
+            "mm/dd/yyyy",
+            "dd/mm/yyyy",
+            "yyyy/dd/mm",
+            "dd/yyyy/mm"
+        ],
+        "answer": "dd/mm/yyyy",
+        "image_base64": null
+    },
+    {
+        "question": "Kết quả của công thức =SUM(1,3,5) là bao nhiêu?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": "9",
+        "image_base64": null
+    },
+    {
+        "question": "Kết quả của công thức =AVERAGE(6,3,3) là bao nhiêu?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "answer": "4",
+        "image_base64": null
+    },
+    {
+        "question": "Hàm =COUNT(1,2,3,4) trả về kết quả nào?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "answer": "4",
+        "image_base64": null
+    },
+    {
+        "question": "Khi gộp nhiều ô trong bảng tính, dữ liệu sẽ như thế nào?",
+        "options": [
+            "Tất cả dữ liệu được giữ lại",
+            "Chỉ giữ dữ liệu của ô cuối cùng",
+            "Chỉ giữ dữ liệu ô trên cùng bên trái",
+            "Tất cả dữ liệu bị xóa"
+        ],
+        "answer": "Chỉ giữ dữ liệu ô trên cùng bên trái",
+        "image_base64": null
+    },
+    {
+        "question": "Điểm chính của tìm kiếm tuần tự là:",
+        "options": [
+            "Luôn cần dữ liệu đã sắp xếp",
+            "Tìm kiếm từ giữa ra hai bên",
+            "Kiểm tra lần lượt từng phần tử",
+            "Chỉ áp dụng cho số"
+        ],
+        "answer": "Kiểm tra lần lượt từng phần tử",
+        "image_base64": null
+    },
+    {
+        "question": "Trong thực tế, tìm kiếm tuần tự phù hợp nhất khi:",
+        "options": [
+            "Dữ liệu rất lớn và đã sắp xếp",
+            "Dữ liệu nhỏ hoặc chưa sắp xếp",
+            "Cần tìm nhanh trong dữ liệu lớn",
+            "Dữ liệu luôn có thứ tự"
+        ],
+        "answer": "Dữ liệu nhỏ hoặc chưa sắp xếp",
+        "image_base64": null
+    },
+    {
+        "question": "Cho danh sách số: [5, 8, 2, 9, 1]. Tìm số 9 bằng tìm kiếm tuần tự. Số lần so sánh là:",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "4"
+        ],
+        "answer": "4",
+        "image_base64": null
+    },
+    {
+        "question": "Một học sinh kiểm tra từng tên trong danh sách lớp để tìm bạn “Minh”. Việc làm này tương ứng với bước nào của thuật toán?",
+        "options": [
+            "Lặp và kiểm tra từng phần tử",
+            "Sắp xếp dữ liệu",
+            "Xóa dữ liệu",
+            "Ghi kết quả ngay từ đầu"
+        ],
+        "answer": "Lặp và kiểm tra từng phần tử",
+        "image_base64": null
+    },
+    {
+        "question": "Để tạo hiệu ứng cho đối tượng được chọn trên trang chiếu, em sử dụng lệnh nào?",
+        "options": [
+            "Animations / Animation Pane",
+            "Animations / Chọn hiệu ứng trong Animation",
+            "Transitions / Chọn hiệu ứng trong Transition to This Slide",
+            "Transitions / Preview"
+        ],
+        "answer": "Animations / Chọn hiệu ứng trong Animation",
+        "image_base64": null
+    },
+    {
+        "question": "Nếu em muốn làm nổi bật tiêu đề trên trang chiếu khi trình bày, em nên:",
+        "options": [
+            "Không dùng hiệu ứng",
+            "Dùng hiệu ứng xuất hiện cho tiêu đề",
+            "Xóa tiêu đề",
+            "Giảm kích thước chữ"
+        ],
+        "answer": "Dùng hiệu ứng xuất hiện cho tiêu đề",
+        "image_base64": null
+    },
+    {
+        "question": "Phát biểu nào sai?",
+        "options": [
+            "Để hiển thị mẫu định dạng cần mở thẻ lệnh Home.",
+            "Có thể sử dụng mẫu định dạng cho một số trang chiếu.",
+            "Cấu trúc phân cấp giúp làm nội dung trình bày có bố cục mạch lạc, dễ hiểu.",
+            "Hiệu ứng động nên được sử dụng một cách có chọn lọc."
+        ],
+        "answer": "Để hiển thị mẫu định dạng cần mở thẻ lệnh Home.",
+        "image_base64": null
+    },
+    {
+        "question": "Khi trình bày nội dung trên một trang chiếu (slide), quy tắc nào sau đây là đúng?",
+        "options": [
+            "Càng sử dụng nhiều hiệu ứng động cho các đối tượng thì bài trình chiếu càng tốt.",
+            "Không cần quan tâm đến bản quyền khi sử dụng hình ảnh minh họa từ internet.",
+            "Nên sử dụng thật nhiều màu sắc và kiểu chữ khác nhau để bài trình chiếu thêm đẹp mắt.",
+            "Nội dung cần viết cô đọng, chọn lọc từ ngữ và nên tập trung vào một ý chính."
+        ],
+        "answer": "Nội dung cần viết cô đọng, chọn lọc từ ngữ và nên tập trung vào một ý chính.",
+        "image_base64": null
+    },
+    {
+        "question": "Nhận định nào sau đây là SAI về việc thiết kế bài trình chiếu?",
+        "options": [
+            "Sử dụng hình ảnh minh họa giúp truyền tải thông tin trực quan và gây ấn tượng.",
+            "Cần lưu ý đến tính thẩm mỹ và bản quyền của hình ảnh khi đưa vào bài.",
+            "Việc biên tập nội dung và định dạng văn bản là bước không cần thiết.",
+            "Lạm dụng quá nhiều hiệu ứng động và màu sắc có thể làm giảm hiệu quả truyền đạt."
+        ],
+        "answer": "Việc biên tập nội dung và định dạng văn bản là bước không cần thiết.",
+        "image_base64": null
+    },
+    {
+        "question": "Thuật toán sắp xếp nổi bọt dừng khi nào?",
+        "options": [
+            "Khi không còn hoán đổi nào xảy ra",
+            "Khi phần tử lớn nhất ở đầu",
+            "Sau 1 lần lặp",
+            "Khi đã đổi chỗ đủ số lần"
+        ],
+        "answer": "Khi không còn hoán đổi nào xảy ra",
+        "image_base64": null
+    },
+    {
+        "question": "Thuật toán nổi bọt sắp xếp dãy theo thứ tự tăng dần bằng cách:",
+        "options": [
+            "So sánh các cặp phần tử liền kề từ đầu đến cuối",
+            "So sánh từ cuối lên đầu",
+            "So sánh ngẫu nhiên",
+            "Chỉ so sánh phần tử đầu và cuối"
+        ],
+        "answer": "So sánh các cặp phần tử liền kề từ đầu đến cuối",
+        "image_base64": null
+    },
+    {
+        "question": "Phát biểu nào đúng về thuật toán nổi bọt?",
+        "options": [
+            "Không cần so sánh phần tử",
+            "Chỉ cần một lần lặp",
+            "Có thể phải lặp lại nhiều lần để sắp xếp hoàn chỉnh",
+            "Không cần hoán đổi"
+        ],
+        "answer": "Có thể phải lặp lại nhiều lần để sắp xếp hoàn chỉnh",
+        "image_base64": null
+    },
+    {
+        "question": "Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái",
+        "options": [
+            "Tìm nửa bên trái",
+            "Tìm nửa bên phải",
+            "Dừng lại",
+            "Tìm lại từ đầu"
+        ],
+        "answer": "Tìm nửa bên phải",
+        "image_base64": null
+    },
+    {
+        "question": "Thuật toán tìm kiếm nhị phân cần bao nhiêu bước để tìm thấy số 7 trong danh sách đã sắp xếp [1, 4, 7, 8, 10, 28]?",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "2",
+        "image_base64": null
+    },
+    {
+        "question": "Thuật toán tìm kiếm nhị phân cần bao nhiêu bước để kết luận không tìm thấy số 15 trong danh sách đã sắp xếp [3, 5, 7, 11, 12, 25]?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "image_base64": null
+    },
+    {
+        "question": "Trong thuật toán tìm kiếm nhị phân, \"Đầu vào\" (Input) bao gồm những yếu tố nào?",
+        "options": [
+            "Danh sách đã được sắp xếp và giá trị cần tìm",
+            "Danh sách bất kì không cần sắp xếp",
+            "Chỉ giá trị cần tìm",
+            "Chỉ danh sách các số"
+        ],
+        "answer": "Danh sách đã được sắp xếp và giá trị cần tìm",
+        "image_base64": null
+    }
 ]
